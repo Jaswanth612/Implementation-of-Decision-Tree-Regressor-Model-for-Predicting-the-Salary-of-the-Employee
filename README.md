@@ -9,8 +9,11 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Algorithm
  1.Import pandas
+
  2.Import Decision tree classifier
+
  3.Fit the data in the model
+
  4.Find the accuracy score
 
 ## Program:
@@ -56,10 +59,10 @@ new_data = pd.DataFrame([[5, 6]], columns=["Position", "Level"])
 print("Prediction:", dt.predict(new_data))
 
 ```
-
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/4c084163-f23c-4d5e-aad2-b8d3fc77ff19)
 
 ## Result:
+
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
